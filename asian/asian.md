@@ -3,7 +3,7 @@
 ---
 Select a specific Asian food:
 
-## [Chinese](/chinese.md)
+## [Chinese](https://github.com/emilyl9154/br-restaurant-guide/blob/master/asian/chinese.md)
 ## [Japanese](/japanese.md)
 ## [Thai](/thai.md)
 ---
